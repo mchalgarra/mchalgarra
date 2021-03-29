@@ -5,7 +5,7 @@
 
 <h1 align="left">Hi there, I'm Michell 👋</h1>
 <p align="left">
-    🎓 Computer Engineering at <a href="https://www.facens.br/">Facens</a>
+    🎓 Computer Engineering at <a href="https://www.facens.br/" target="_blank">Facens</a>
 </p>
 <p align="left">
     💻 Software Developer Volunteer at Liquid Galaxy LAB - Facens
@@ -39,13 +39,13 @@
 
 <h3 align="left">Find me in 🌎</h3>
 <span align="left">
-    <a href="https://www.linkedin.com/in/mchalgarra/">
+    <a href="https://www.linkedin.com/in/mchalgarra/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:michell.algarra@gmail.com">
+    <a href="mailto:michell.algarra@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://gitlab.com/mchalgarra">
+    <a href="https://gitlab.com/mchalgarra" target="_blank">
         <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" alt="GitLab">
     </a>
 </span>
