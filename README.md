@@ -37,6 +37,10 @@
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=grey" alt="C">
 </p>
 
+<h2 align="left">Stats 📊</h2>
+
+![Michell's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mchalgarra&layout=compact&theme=radical)
+
 <h3 align="left">Find me in 🌎</h3>
 <span align="left">
     <a href="https://www.linkedin.com/in/mchalgarra/" target="_blank">
