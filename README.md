@@ -39,7 +39,9 @@
 
 <h2 align="left">Stats 📊</h2>
 
-![Michell's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mchalgarra&layout=compact&theme=radical)
+![Michell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchalgarra&theme=radical)
+
+![Michell's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchalgarra&layout=compact&theme=radical)
 
 <h3 align="left">Find me in 🌎</h3>
 <span align="left">
