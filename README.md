@@ -8,7 +8,7 @@
     🎓 Computer Engineering at <a href="https://www.facens.br/" target="_blank">Facens</a>
 </p>
 <p align="left">
-    💻 Software Developer Volunteer at Liquid Galaxy LAB - Facens
+    💻 Software Developer Intern at Liquid Galaxy LAB - Facens
     <img src="https://4.bp.blogspot.com/-n-vRn12_mEk/XLr2zIDgUnI/AAAAAAAHBTI/69TPLvy-nsg9OPNC15bZB3-WzSX8m0PrwCLcBGAs/s1600/LOGO_LIQUID_GALAXY-sq300x300-pngtranspOK.png"
          alt="LG Logo"
          height="30"
@@ -27,6 +27,8 @@
     <img src="https://img.shields.io/badge/-React_Native-45B8D8?style=flat&logo=react&logoColor=white" alt="React Native">
     <img src="https://img.shields.io/badge/-Styled_Components-DB7092?style=flat&logo=styled-components&logoColor=white" alt="Styled Components">
     <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="VueJS">
+    <img src="https://img.shields.io/badge/-Ionic-3581FF?style=flat&logo=ionic&logoColor=white" alt="Ionic">
+    <img src="https://img.shields.io/badge/-Angular-D7343F?style=flat&logo=angular&logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
