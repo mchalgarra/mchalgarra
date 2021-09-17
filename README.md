@@ -16,7 +16,7 @@
          align="center">
 </p>
 <p align="left">
-    📓 Currently studying the basics of Artificial Intelligence (AI)
+    📓 Currently developing a websocket game and learning new technologies.
 </p>
  
  <h2 align="left">Skills 🔥</h2>
