@@ -5,10 +5,13 @@
 
 <h1 align="left">Hi there, I'm Michell 👋</h1>
 <p align="left">
-    🎓 Computer Engineering at <a href="https://www.facens.br/" target="_blank">Facens</a>
+    🏆 Google Summer of Code 2022 contributor
 </p>
 <p align="left">
-    💻 Software Developer Intern at Liquid Galaxy LAB - Facens
+    🎓 Computer Engineering student at <a href="https://www.facens.br/" target="_blank">Facens</a>
+</p>
+<p align="left">
+    💻 Full-stack Software Developer Intern at Liquid Galaxy LAB - Facens
     <img src="https://4.bp.blogspot.com/-n-vRn12_mEk/XLr2zIDgUnI/AAAAAAAHBTI/69TPLvy-nsg9OPNC15bZB3-WzSX8m0PrwCLcBGAs/s1600/LOGO_LIQUID_GALAXY-sq300x300-pngtranspOK.png"
          alt="LG Logo"
          height="30"
@@ -16,7 +19,7 @@
          align="center">
 </p>
 <p align="left">
-    📓 Currently developing a websocket game and learning new technologies.
+    📱 Currently developing a mobile application using Ionic and Angular
 </p>
  
  <h2 align="left">Skills 🔥</h2>
@@ -29,6 +32,7 @@
     <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="VueJS">
     <img src="https://img.shields.io/badge/-Ionic-3581FF?style=flat&logo=ionic&logoColor=white" alt="Ionic">
     <img src="https://img.shields.io/badge/-Angular-D7343F?style=flat&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/-Flutter-60C9F9?style=flat&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
