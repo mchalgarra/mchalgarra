@@ -43,6 +43,24 @@
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=grey" alt="C">
 </p>
 
+<h2 align="left">Projects 💻</h2>
+
+<p align="left">
+    <a href="https://summerofcode.withgoogle.com/programs/2022/projects/8TUw3N9s" target="_blank">SatNOGS Visualization Tool</a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/AsteroidsJS-Official" target="_blank">AsteroidsJS</a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/paperbook-official" target="_blank">PaperBook</a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/iport-official" target="_blank">iPort</a>
+</p>
+
 <h2 align="left">Stats 📊</h2>
 
 ![Michell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchalgarra&theme=radical)
