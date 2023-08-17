@@ -11,12 +11,7 @@
     🎓 Computer Engineering student at <a href="https://www.facens.br/" target="_blank">Facens</a>
 </p>
 <p align="left">
-    💻 Full-stack Software Developer Intern at Liquid Galaxy LAB - Facens
-    <img src="https://4.bp.blogspot.com/-n-vRn12_mEk/XLr2zIDgUnI/AAAAAAAHBTI/69TPLvy-nsg9OPNC15bZB3-WzSX8m0PrwCLcBGAs/s1600/LOGO_LIQUID_GALAXY-sq300x300-pngtranspOK.png"
-         alt="LG Logo"
-         height="30"
-         width="30"
-         align="center">
+    💻 Full-stack Software Developer
 </p>
 <p align="left">
     📱 Currently developing a mobile application using Ionic and Angular
