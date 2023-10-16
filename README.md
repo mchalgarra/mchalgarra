@@ -8,25 +8,25 @@
     🏆 Google Summer of Code 2022 contributor
 </p>
 <p align="left">
-    🎓 Computer Engineering student at <a href="https://www.facens.br/" target="_blank">Facens</a>
+    🎓 Computer Engineering student • <a href="https://www.facens.br/" target="_blank">Facens</a>
 </p>
 <p align="left">
-    💻 Full-stack Software Developer
+    💻 Developer Analyst III • <a href="https://cadmus.com.br" target="_blank">Cadmus</a>
 </p>
 <p align="left">
-    📱 Currently developing a mobile application using Ionic and Angular
+    📱 Co-owner of Xtend Code, a mobile app development organization
 </p>
  
  <h2 align="left">Skills 🔥</h2>
  <p align="left">
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="Typescript">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=323330" alt="Javascript">
+    <img src="https://img.shields.io/badge/-Ionic-3581FF?style=flat&logo=ionic&logoColor=white" alt="Ionic">
+    <img src="https://img.shields.io/badge/-Angular-D7343F?style=flat&logo=angular&logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/-React-45B8D8?style=flat&logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/-React_Native-45B8D8?style=flat&logo=react&logoColor=white" alt="React Native">
     <img src="https://img.shields.io/badge/-Styled_Components-DB7092?style=flat&logo=styled-components&logoColor=white" alt="Styled Components">
     <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="VueJS">
-    <img src="https://img.shields.io/badge/-Ionic-3581FF?style=flat&logo=ionic&logoColor=white" alt="Ionic">
-    <img src="https://img.shields.io/badge/-Angular-D7343F?style=flat&logo=angular&logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/-Flutter-60C9F9?style=flat&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
@@ -39,6 +39,10 @@
 </p>
 
 <h2 align="left">Projects 💻</h2>
+
+<p align="left">
+     <a href="https://play.google.com/store/apps/details?id=com.xtend.vaner" target="_blank">Vaner</a>
+</p>
 
 <p align="left">
     <a href="https://summerofcode.withgoogle.com/programs/2022/projects/8TUw3N9s" target="_blank">SatNOGS Visualization Tool</a>
