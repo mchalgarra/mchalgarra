@@ -8,7 +8,7 @@
     🏆 Google Summer of Code 2022 contributor
 </p>
 <p align="left">
-    🎓 Computer Engineering student • <a href="https://www.facens.br/" target="_blank">Facens</a>
+    🎓 Computer Engineer • <a href="https://www.facens.br/" target="_blank">Facens</a>
 </p>
 <p align="left">
     💻 Developer Analyst III • <a href="https://cadmus.com.br" target="_blank">Cadmus</a>
