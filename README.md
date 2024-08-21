@@ -11,7 +11,7 @@
     🎓 Computer Engineer • <a href="https://www.facens.br/" target="_blank">Facens</a>
 </p>
 <p align="left">
-    💻 Developer Analyst III • <a href="https://cadmus.com.br" target="_blank">Cadmus</a>
+    💻 Software Engineer • <a href="https://uber.com" target="_blank">Uber</a>
 </p>
 <p align="left">
     📱 Co-owner of Xtend Code, a mobile app development organization
