@@ -13,9 +13,11 @@
 <p align="left">
     💻 Software Engineer • <a href="https://uber.com" target="_blank">Uber</a>
 </p>
+<!--
 <p align="left">
     📱 Co-owner of Xtend Code, a mobile app development organization
 </p>
+-->
  
  <h2 align="left">Skills 🔥</h2>
  <p align="left">
@@ -36,13 +38,19 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=grey" alt="C">
+    <img src="https://img.shields.io/badge/-Go-29BEB0?style=flat&logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift">
 </p>
 
 <h2 align="left">Projects 💻</h2>
 
+<!--
 <p align="left">
      <a href="https://play.google.com/store/apps/details?id=com.xtend.vaner" target="_blank">Vaner</a>
 </p>
+-->
+
 
 <p align="left">
     <a href="https://summerofcode.withgoogle.com/programs/2022/projects/8TUw3N9s" target="_blank">SatNOGS Visualization Tool</a>
